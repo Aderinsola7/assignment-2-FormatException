@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.exe.config
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.exe
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.pdb
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\obj\Debug\FormatException.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\obj\Debug\FormatException.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\obj\Debug\13-10-FormatException.exe
+C:\Users\USER\Desktop\13-10-FormatException\13-10-FormatException\13-10-FormatException\obj\Debug\13-10-FormatException.pdb

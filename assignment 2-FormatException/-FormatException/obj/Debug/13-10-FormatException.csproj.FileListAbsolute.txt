@@ -1,0 +1,6 @@
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.exe.config
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\bin\Debug\13-10-FormatException.pdb
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\obj\Debug\13-10-FormatException.csprojResolveAssemblyReference.cache
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\obj\Debug\13-10-FormatException.exe
+C:\Users\Pavol\Desktop\PROGRAMMING\_coding\Csharp\13-10-FormatException\13-10-FormatException\obj\Debug\13-10-FormatException.pdb
